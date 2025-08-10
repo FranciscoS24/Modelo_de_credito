@@ -1,4 +1,4 @@
-#Modelo de crédito para aspirantes.
+# Modelo de crédito para aspirantes.
 ![Estado crediticio](https://vyv.pe/wp-content/uploads/2023/08/Informes-de-credito-con-empresas-de-monitoreo.webp)
 
 ### En este repositorio se encuentra un programa de regresión logística escrito en JupyerNotebook el cual aprueba o rechaza posibles aspirantes a obtener un crédito.
